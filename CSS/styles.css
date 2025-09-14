@@ -1,0 +1,20 @@
+/*GLOBAL*/
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    scroll-snap-type: y mandatory;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+:root {
+    --negro: #000000;
+    --blanco: #ffffff;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+/*GLOBAL FIN*/
+
+/*RESPONSIVE*/
+/*RESPONSIVE FIN*/
